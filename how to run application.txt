@@ -1,0 +1,4 @@
+1.open the folder in terminal
+2.run command "npm install"
+3.then, run command "npm start"
+4. or you can visit "trello-mriganka.netlify.app"
